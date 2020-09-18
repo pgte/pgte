@@ -21,7 +21,7 @@ Always devoted to open-source (he is the author and contributor of some famous o
 
 ## Publications
 
-From latest to earlist:
+Some of his books, from latest to earlist:
 
 ### Node Patterns Books (2016)
 
@@ -31,7 +31,7 @@ A collection of short books about Node.js and how it can be used to implement se
 
 ### Professional Node.js - Building Javascript based Scalable Software - Wrox
 
-🌍 https://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable/dp/1118185463#ace-g6796040015
+🌍 https://www.wiley.com/en-gb/Professional+Node+js%3A+Building+Javascript+Based+Scalable+Software-p-9781118240564
 
 ### Hands-on Node.js (2012)
 
