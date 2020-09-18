@@ -21,7 +21,11 @@ Always devoted to open-source (he is the author and contributor of some famous o
 
 ## Publications
 
-Some of his books, from latest to earlist:
+Some of his articles and books, from latest to earlist:
+
+### White paper: Merkle-CRDTs (co-author)
+
+🌍 https://hector.link/presentations/merkle-crdts/merkle-crdts.pdf
 
 ### Node Patterns Books (2016)
 
