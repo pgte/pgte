@@ -1,6 +1,6 @@
 # Pedro Teixeira
 
-👾 Software Engineer 🖋 Tech writer ☕️ Open-sourcerer 🎸 Wanna-be musician 🎤 Aspiring podcaster 🍼 Father 🚀 Curious
+👾 Software Engineer 🖋 Tech writer ☕️ Open-sourcerer 🎸 Wanna-be musician 🍼 Father 🚀 Curious
 
 ## Short bio
 
